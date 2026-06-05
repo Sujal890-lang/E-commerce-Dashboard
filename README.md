@@ -33,10 +33,11 @@ The E-Commerce Dashboard is a data analytics and visualization project designed 
 
 ## 📂 Project Structure
 
-├── Dataset/
-├── Dashboard Screenshots/
-├── SQL Queries/
-├── Power BI File/
+├── App.jsx/
+├── index.css/
+├── main.jsx/
+├── App.css/
+├── Ecommerce.jsx/
 └── README.md
 
 ## 🎯 Objectives
@@ -48,7 +49,7 @@ The E-Commerce Dashboard is a data analytics and visualization project designed 
 
 ## 📸 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+(Comming Soon)
 
 ## 📈 Key Learnings
 
@@ -64,7 +65,11 @@ Contributions, suggestions, and feedback are welcome.
 
 ## 📧 Contact
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/sujal-mahto-652724302
+
+
+
+
 GitHub: Your GitHub Username
 
 ⭐ If you found this project useful, don't forget to star the repository!
