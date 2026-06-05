@@ -66,11 +66,7 @@ Contributions, suggestions, and feedback are welcome.
 ## 📧 Contact
 
 LinkedIn: www.linkedin.com/in/sujal-mahto-652724302
-
-
-
-
-GitHub: Your GitHub Username
+GitHub: Sujal890-lang
 
 ⭐ If you found this project useful, don't forget to star the repository!
 
